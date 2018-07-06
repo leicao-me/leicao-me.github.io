@@ -16,7 +16,7 @@ resume: true
 resume-external: false
 resume-url: assets/leicao_cv.pdf
 
-url: https://leicao-me.github.io
+url: https://leicao.me
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -30,7 +30,7 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: leicao.me # mydisqus # enter this from your disqus account
+  shortname: leicao # mydisqus # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
