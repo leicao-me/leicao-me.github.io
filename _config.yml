@@ -54,18 +54,24 @@ github: leicao-me
 email: leicao.me@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    # johndoe:
+    #     name: John Doe
+    #     bio: A Man who travels the world eating noodles
+    #     external-image: false
+    #     picture: assets/images/profile.jpg
+    #     twitter: johndoe
+    leicao:
+        name: Lei Cao
+        bio: A Data Scientist who play Blues guitar
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        twitter: LeiCaoLA
+    # jamesfoster:
+    #     name: James Foster
+    #     bio: A Man who develops software with coffee
+    #     external-image: false
+    #     picture: assets/images/james.jpg
+    #     twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
