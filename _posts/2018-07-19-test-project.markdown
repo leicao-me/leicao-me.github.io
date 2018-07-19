@@ -1,5 +1,5 @@
 ---
-title: ":test project"
+title: "Test Project"
 layout: post
 date: 2018-07-19 22:10
 tag: test
